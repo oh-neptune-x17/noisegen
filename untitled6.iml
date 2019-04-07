@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/opencv/opencv/build/java/opencv-401.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://E:/opencv/opencv/build/java/x64" />
+        </NATIVE>
+        <SOURCES>
+          <root url="jar://E:/opencv/opencv/build/java/opencv-401.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/applications/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/applications/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/demonstrations/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/examples/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-WebcamCapture/examples" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-WebcamCapture/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-all/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-android/examples/video/app/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-android/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-android/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-ffmpeg/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-javacv/src/main/examples" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-javacv/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-javacv/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-javafx/examples/src" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-javafx/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-jcodec/examples" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-jcodec/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-openkinect/examples/src" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-openkinect/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-openkinect/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/integration/boofcv-swing/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/autocode/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-calibration/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-calibration/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-core/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/experimental/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/experimental/test" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/generate/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-feature/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-geo/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-geo/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-geo/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-io/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-io/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-io/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-ip/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-ip/src/generate/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-ip/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-ip/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-learning/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-learning/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-recognition/src/benchmark/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-recognition/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-recognition/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-sfm/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-sfm/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-simulation/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-simulation/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-types/src/generate/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-types/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/boofcv-types/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/boofcv-v0.33.1-src/boofcv/main/checks/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
